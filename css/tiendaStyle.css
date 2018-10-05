@@ -47,6 +47,13 @@ header li {
   padding: 0 30px 0 100px;
 }
 
+.current a{
+  background-color: rgba(192, 192, 192,0.7);
+  border-radius: 1.3em;
+  background-size: unset;
+  padding: 0.7em;
+}
+
 /*dropdown*/
 .dropdown {
     position: relative;
@@ -101,7 +108,8 @@ header li {
 }
 
 .social-box i{
-  color: black;
+  color: #C01057;
+  padding-top: 0.2em;
 }
 
 

@@ -66,6 +66,13 @@ p {
   text-align: center;
 }
 
+.current a{
+  background-color: rgba(192, 192, 192,0.7);
+  border-radius: 1.3em;
+  background-size: unset;
+  padding: 0.7em;
+}
+
 /*dropdown*/
 .dropdown {
     position: relative;
@@ -121,7 +128,8 @@ p {
 }
 
 .social-box i{
-  color: black;
+  color: #C01057;
+  padding-top: 0.2em;
 }
 
 /* body */
